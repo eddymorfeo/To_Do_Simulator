@@ -1,0 +1,6 @@
+[
+    {"nombreEstado":"Iniciado", "id":1},
+    {"nombreEstado":"En Curso", "id":2},
+    {"nombreEstado":"Pendiente", "id":3},
+    {"nombreEstado":"Finalizado", "id":4}
+]
